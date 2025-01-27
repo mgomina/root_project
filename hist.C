@@ -1,3 +1,4 @@
+void hist()
 {
     TH1F hist("hist", "Histogram", 100, 5, 5);
 
